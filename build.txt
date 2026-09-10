@@ -1,0 +1,5 @@
+displayName = Calamity: Wrath of the Gods tradução PT-BR
+author = Bibsfiha
+version = 2.1.3
+modReferences = NoxusBoss
+sortAfter = NoxusBoss

@@ -1,0 +1,21 @@
+"Calamity: Wrath of the Gods tradução PT-BR"
+
+Tradução completa do mod Calamity: Wrath of the Gods (WOTG) para português do Brasil (PT-BR)
+Este mod inclui a tradução de praticamente todo conteúdo textual, tendo nele:
+
+Diálogos completos da Solyn
+(os diálogos não possuem acentos, devido a fonte utilizada pelo mod 
+WOTG reduzir significativamente o tamanho das letras acentuadas)
+ 
+- Todos os itens do mod traduzidos.
+- Bestiário totalmente traduzidos.
+- Diálogos completos do Draedon.
+- Falas de todos os NPCs no pós-Moon Lord.
+- Falas da Divindade Sem Nome traduzidas.
+- Itens de Lore dos Bosses traduzidos.
+( traduzir o texto da Dinvidade sem Nome é Muito complexo, então essa parte não está com a melhor adaptação possivel)
+
+Tradução testada em jogo para verificar erros de frases e descrições quebradas e falta de texto.
+Caso encontre erros de digitação ou textos sem sentido, peço que reporte para correção.
+
+Esta tradução não é oficial e foi feita por fã, sem afiliação com a equipe do WOTG!

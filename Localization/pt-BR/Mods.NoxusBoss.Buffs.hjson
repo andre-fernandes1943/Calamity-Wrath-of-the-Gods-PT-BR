@@ -1,0 +1,44 @@
+CuriousHandBuff: {
+	 DisplayName: Mão Curiosa
+	 Description: Acaricia as formas e texturas do seu mundo, desconhecido por experiências semelhantes há eras
+}
+
+BlackHolePetBuff: {
+	 DisplayName: Buraco Negro
+	 Description: O cosseno infinito emana por detrás de uma quintila consagrada
+}
+
+StarPetBuff: {
+	 DisplayName: Betelgeuse
+	 Description: A luz irá guialo, e será visivel a olho nu da Terra
+}
+
+BabyNamelessBuff: {
+	 DisplayName: Divindade Sem Nome
+	 Description: Tudo está em ordem
+}
+
+NilkDebuff: {
+	 DisplayName: Nilk
+	 Description: ...
+}
+
+StarstrikinglySatiated: {
+	 DisplayName: Saciação Estelar
+	 Description: Melhorias estelares em todas as estatísticas e aumento da regeneração de vida
+}
+
+Glaciated: {
+	 DisplayName: Glaciado
+	 Description: Você não pode se mover
+}
+
+InvincibilityBuff: {
+	 DisplayName: Flor da Eternidade
+	 Description: A benção da flor de lótus impede que você seja ferido
+}
+
+AntimatterAnnihilation: {
+	 DisplayName: Aniquilação de Antimatéria
+	 Description: você não importa
+}
