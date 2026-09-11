@@ -18,7 +18,7 @@ A tradução busca preservar o significado original, mas com uma tradução tota
 O mod utiliza uma fonte com limitações na exibição de caracteres acentuados. Por isso, algumas palavras em diálogos e descrições foram intencionalmente adaptadas sem acentuação, buscando preservar a fluidez da leitura e o visual dentro do jogo.
 
 Exemplo de dialogos sem acentuação:
-<img width="1292" height="783" alt="image" src="assets/dialog_test.png" />
+<img width="861" height="522" alt="image" src="assets/dialog_test.png" />
 
 ##
 Tradução independente e nõa oficial para a comunidade Brasileira de Terraria.
