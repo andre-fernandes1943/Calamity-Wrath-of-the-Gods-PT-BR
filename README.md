@@ -21,6 +21,6 @@ Exemplo de dialogos sem acentuação:
 <img width="861" height="522" alt="image" src="assets/dialog_test.png" />
 
 ##
-Tradução independente e nõa oficial para a comunidade Brasileira de Terraria.
+Tradução independente e não oficial para a comunidade Brasileira de Terraria.
 
 
